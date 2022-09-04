@@ -1,14 +1,11 @@
 Welcome, I'm João Victor
 ==========================
 
-I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
-
-I am also a student at 
-
-* 🌍  I'm based in São Paulo, Brazil
+* 🌍  I'm based in São Paulo, Brazil.
 * 🚀  I'm currently studing on [SPTech School](https://www.sptech.school).
 * 🧠  I'm currently learning Java and Python.
-* 💬  Email: joao.hengler@sptech.school | jvhengler@gmail.com
+* 💬  Email: joao.hengler@sptech.school | jvhengler@gmail.com.
+* 🖥️  On the Road to Becoming an AI Developer.
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JoaoVictorHengler?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
@@ -22,8 +19,6 @@ src="https://img.shields.io/github/followers/JoaoVictorHengler?logo=github&style
 </p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=JoaoVictorHengler&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
 
