@@ -1,22 +1,22 @@
 Welcome, I'm João Victor
 ==========================
 
-* 🌍  I'm based in São Paulo, Brazil.
-* 🚀  I'm currently studing on [SPTech School](https://www.sptech.school).
-* 🧠  I'm currently learning Java and Python.
+* 🌍  Estou morando em São Paulo, Brasil.
+* 🚀  Estou estudando atualmente em [SPTech School](https://www.sptech.school).
+* 🧠  Aprendendo Java (Spring Boot) e React.
 * 💬  Email: joao.hengler@sptech.school | jvhengler@gmail.com.
-* 🖥️  On the Road to Becoming an AI Developer.
+* 🖥️  No caminho para me tornar um desenvolvedor de IA.
 
 <a href="https://www.github.com/JoaoVictorHengler" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JoaoVictorHengler?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
-<h2>- Skills</h2>
+<h2>- Habilidades</h2>
 
 <p align="center" >
 </p>
 
 <div align="center">
-  <h3>Technologies that I use daily</h3>
+  <h3>Tecnologias que uso diariamente</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="Javascript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/Css" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40" alt="Css" /></a>
@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/JoaoVictorHengler?logo=github&style
 </div>
 
 <div align="center">
-  <h3>Extra skills</h3>
+  <h3>Habilidades Extras</h3>
   <a href="https://https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="40" height="40" alt="C#" /></a>
 </div>
 
