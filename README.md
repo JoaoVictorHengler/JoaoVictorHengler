@@ -44,10 +44,3 @@ src="https://img.shields.io/github/followers/JoaoVictorHengler?logo=github&style
   <h3>Habilidades Extras</h3>
   <a href="https://https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="40" height="40" alt="C#" /></a>
 </div>
-
-<h2>- Badges</h2>
-
-<a href="http://www.github.com/JoaoVictorHengler"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=JoaoVictorHengler&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
-
-
-<a href="https://github.com/JoaoVictorHengler" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=JoaoVictorHengler&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
