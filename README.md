@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/JoaoVictorHengler?logo=github&style
 </p>
 
 <div align="center">
-  <h3>Tecnologias que uso diariamente</h3>
+  <h3>Tecnologias conhecidas</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="Javascript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/Css" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40" alt="Css" /></a>
