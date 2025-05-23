@@ -5,7 +5,7 @@ Welcome, I'm João Victor
 * 🚀  Estou estudando atualmente em [SPTech School](https://www.sptech.school).
 * 🧠  Aprendendo Java (Spring Boot) e React.
 * 💬  Email: joao.hengler@sptech.school | jvhengler@gmail.com.
-* 🖥️  No caminho para me tornar um desenvolvedor de IA.
+* 🖥️  No caminho para chegar nos meus desejos.
 
 <a href="https://www.github.com/JoaoVictorHengler" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JoaoVictorHengler?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
