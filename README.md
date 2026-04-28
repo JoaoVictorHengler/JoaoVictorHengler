@@ -2,10 +2,9 @@ Welcome, I'm João Victor
 ==========================
 
 * 🌍  Estou morando em São Paulo, Brasil.
-* 🚀  Estou estudando atualmente em [SPTech School](https://www.sptech.school).
-* 🧠  Aprendendo Java (Spring Boot) e React.
-* 💬  Email: joao.hengler@sptech.school | jvhengler@gmail.com.
-* 🖥️  No caminho para chegar nos meus desejos.
+* 🎓  Formado em Ciência da Computação na [SPTech School](https://www.sptech.school).
+* 🖥️  Trabalho com engenharia de dados.
+* 💬  Email: joaovictor_hengler@hotmail.com | jvhengler@gmail.com.
 
 <a href="https://www.github.com/JoaoVictorHengler" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JoaoVictorHengler?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
