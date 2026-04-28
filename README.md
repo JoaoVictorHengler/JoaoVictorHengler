@@ -25,41 +25,20 @@ src="https://img.shields.io/github/followers/JoaoVictorHengler?logo=github&style
 </div>
 
 <div align="center">
-  <h3>Ide's</h3>
-  <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="40" height="40" alt="VSCode" /></a>
-  <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="VStudio" /></a>
-</div>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="40" height="40" alt="C#" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="Javascript" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Css" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40" alt="Css" />
-  </a>
-
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />
-  </a>
-
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="40" height="40" alt="Aws" />
-  </a>
-
-  <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="40" height="40" alt="Java" />
-  </a>
-
-  <a href="https://www.r-project.org" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40" alt="R" />
-  </a>
+  <h3>Habilidades Extras</h3>
+  <a href="https://https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="40" height="40" alt="C#" /></a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="Javascript" /></a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Css" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40" alt="Css" /></a>
+  
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
+  
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="40" height="40" alt="Aws" /></a>
+  
+  <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="40" height="40" alt="Java" /></a>
+  
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40" alt="R" /></a>
 </div>
